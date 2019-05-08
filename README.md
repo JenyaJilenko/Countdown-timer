@@ -69,3 +69,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Screenshots
 
+![Initial](src/images/Countdown-timer-initial.png)
+
+![Ready](src/images/Countdown-timer-ready.png)
+
+![In progress](src/images/Countdown-timer-in-progress.png)
+
+![Paused](src/images/Countdown-timer-paused.png)
+
+
