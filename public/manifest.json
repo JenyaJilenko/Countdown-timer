@@ -1,0 +1,9 @@
+{
+  "short_name": "Countdown Timer",
+  "name": "Countdown Timer",
+  "icons": [],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
